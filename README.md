@@ -16,4 +16,4 @@
 - **Style** : HTML5, CSS3
 
 🔗 배포 링크
-- [실제 웹 페이지 확인하기] (https://yu-dang2.github.io/task-manager/)
+- [실제 웹 페이지 확인하기](https://yu-dang2.github.io/task-manager/)
