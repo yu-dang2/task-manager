@@ -15,4 +15,4 @@
 - JavaScript
 
 🔗 배포 링크
-- 
+- https://yu-dang2.github.io/task-manager/
